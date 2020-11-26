@@ -1,3 +1,4 @@
+#everything commented out is output the user would get. A nice addition, but not necessary!
 class VendingMachine
   attr_reader :location, :stock
   def initialize(location)
