@@ -31,8 +31,8 @@ class VendingMachine
    #   "Please insert payment"
    # elsif @user_payment != 0 &&@pressed_number ==0
    #   "Please select soda"
-   # else
-   #   "Soda is out of stock"
+   else
+     "Soda is out of stock"
    end
   end
 
